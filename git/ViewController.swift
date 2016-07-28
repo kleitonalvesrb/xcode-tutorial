@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("oi")
+        print("add segundo print")
     }
 
     override func didReceiveMemoryWarning() {
